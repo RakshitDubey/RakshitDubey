@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakshitDubey](https://github.com/RakshitDubey)
 
-- 💬 Ask me about **Html| Css| JS| Bootstrap|**
+- 💬 Ask me about **Html| Css| JS| Bootstrap| Python|**
 
 - 📫 How to reach me **rakshitdubey121@gmail.com**
 
