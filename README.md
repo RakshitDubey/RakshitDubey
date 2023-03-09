@@ -1,8 +1,5 @@
-<img alt="coding" width="1000" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 <h1 align="center">Hi 👋, I'm Rakshit Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitdubey&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitdubey" /> </p>
 
@@ -20,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/rkshit__dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkshit__dubey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rakshitdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitdubey" height="30" width="40" /></a>
 </p>
 
