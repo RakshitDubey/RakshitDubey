@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitdubey&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitdubey" /> </p>
 
-- 🔭 I’m currently working on **Landing Page**
+- 🔭 I’m currently working on **Landing Pag**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express js**
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakshitDubey](https://github.com/RakshitDubey)
 
-- 💬 Ask me about **Html| Css| JS| Bootstrap|**
+- 💬 Ask me about **Python|Html| Css| JS| Bootstrap|jquery| React js**
 
 - 📫 How to reach me **rakshitdubey121@gmail.com**
 
