@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/rkshit__dubey" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=hFoVFpm6gl9A&format=png" alt="rakshitdubey" height="30" width="40" /></a>
+<a href="https://www.naukri.com/RakshitDubey" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=53682&format=png" alt="rakshitdubey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
