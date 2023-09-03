@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Landing Page**
 
-- 🌱 I’m currently learning **Express js**
+- 🌱 I’m currently learning **MongoDb**
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects**
 
